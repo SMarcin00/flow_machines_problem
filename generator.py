@@ -25,4 +25,3 @@ class RandomNumberGenerator:
         val = self.nextInt(low, high) / 100000.0
         return val
     
-
